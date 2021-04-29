@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb4454d4-83c9-4f24-9e03-f66445dd577e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aulas/aula02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aulas/aula06/src/com/company/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aulas/aula06/src/com/company/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_1/pratica01/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_1/pratica03/pratica02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_1/pratica04/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_1/pratica05/pratica04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aulas/aula02/out/production/aula02/com/company/Condicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aulas/aula02/out/production/aula02/com/company/Condicional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/out/production/untitled104/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/out/production/untitled104/com/company/Outra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/src/com/company/Outra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica01/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/out/production/pratica02/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/pratica02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica02/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/out/production/untitled104/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica03/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/out/production/pratica04/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/pratica04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica04/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/out/production/pratica05/com/company/Pratica02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/out/production/pratica05/com/company/Pratica03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/out/production/pratica05/com/company/Pratica04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/out/production/pratica05/com/company/Pratica05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/pratica05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/src/com/company/Pratica02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/src/com/company/Pratica03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/src/com/company/Pratica04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica05/src/com/company/Pratica05.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rorW2EQ6amHNdcQCh9sE4k13ud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lista_2/pratica02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="pratica002" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb4454d4-83c9-4f24-9e03-f66445dd577e" name="Default Changelist" comment="" />
+      <created>1619653314061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619653314061</updated>
+      <workItem from="1619653315473" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
