@@ -4,11 +4,13 @@ public class Conta {
     private int numero;
     private String dono;
     private double saldo;
+    private static int totalDeContas = 0;
 
     public Conta(int numero, String dono, double saldo) {
         this.numero = numero;
         this.dono = dono;
         this.saldo = saldo;
+        totalDeContas += 1;
     }
 
     public boolean sacar(double valor) {
@@ -45,5 +47,9 @@ public class Conta {
 
     public void setSaldo(double saldo) {
         this.saldo = saldo;
+    }
+
+    public int getTotalDeContas() {
+        return Conta.totalDeContas;
     }
 }

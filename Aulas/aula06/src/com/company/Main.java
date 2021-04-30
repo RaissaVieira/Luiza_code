@@ -63,5 +63,7 @@ public class Main {
         System.out.printf("A cliente %s tem saldo %.2f\n", cliente.getNome(), cliente.getConta().getSaldo());
         System.out.printf("A cliente %s tem saldo %.2f\n", cliente2.getNome(), cliente2.getConta().getSaldo());
         System.out.printf("A cliente %s tem saldo %.2f\n", cliente3.getNome(), cliente3.getConta().getSaldo());
+
+        System.out.println("Total de contas: " + contaLua.getTotalDeContas());
     }
 }
